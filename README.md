@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for opportunity **to apply my expertise.🌻**
 
-- 👨‍💻 Know more about me at [dimplevarshney.com](http://dimplevarshney.com)
+- 👨‍💻 Know more about me at [dimplevarshney.com](https://dimple-varshney.netlify.app/)
 
   ### ⚡ One line that describes me best? 
   A self-motivated girl who enjoys teaching & coding.
